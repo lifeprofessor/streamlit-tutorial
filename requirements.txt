@@ -1,5 +1,6 @@
 altair
 plotly
+matplotlib
 vega_datasets
-bokeh
+bokeh==2.4.3
 scipy
