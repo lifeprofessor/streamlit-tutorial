@@ -163,7 +163,3 @@ st.write("This is outside the container")
 # Now insert some more in the container
 container.write("This is inside too")
         ''')
-
-
-st.write('### :rainbow[empty]')
-
